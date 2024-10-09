@@ -13,10 +13,6 @@ Este projeto faz parte de um estudo de dados em que uma empresa com mais de **80
 
 1. **Importação de Dados**: Carregar os dados dos clientes ativos e inativos para análise.
 2. **Análise Exploratória**: Explorar os dados para identificar padrões de comportamento, como:
-   - Demografia dos clientes
-   - Tempo de assinatura antes do cancelamento
-   - Categorias de serviços mais propensas ao cancelamento
-   - Padrões sazonais ou geográficos
 3. **Modelagem**: Utilizar técnicas de machine learning para prever cancelamentos e determinar quais variáveis são mais importantes na decisão dos clientes.
 4. **Recomendações**: Baseado nos resultados, sugerir ações práticas que a empresa pode tomar para reduzir o churn (taxa de cancelamento).
    
